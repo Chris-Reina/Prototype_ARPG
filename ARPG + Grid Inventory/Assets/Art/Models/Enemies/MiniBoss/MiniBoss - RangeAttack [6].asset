@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d41fafa42f44f541b4a1855d401b209, type: 3}
+  m_Name: MiniBoss - RangeAttack [6]
+  m_EditorClassIdentifier: 
+  ID: 6
+  name: Range Attack
+  description: Spawns Fire
+  range: 50
+  animationClip: {fileID: -203655887218126122, guid: 6e8790053543c2645a5c57bb22621c2e,
+    type: 3}
+  animationEffectDelay: 0.53
+  animationSpeedMultiplier: 1.3
+  sound: {fileID: 0}
+  icon: {fileID: 0}
+  manaCost: 0
+  effectSystem: {fileID: 0}
+  damageMultiplicative: 1
+  prefab: {fileID: 4548382743782893420, guid: 5b2939f968eda17479e6c13cbf1b2314, type: 3}

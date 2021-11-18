@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zombie Alpha
+  m_Shader: {fileID: 4800000, guid: 67623eb532797df4f928f5ed90f5ea81, type: 3}
+  m_ShaderKeywords: _USEEMISSION_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseColor:
+        m_Texture: {fileID: 2800000, guid: c8f8758cc8b1e2d49b5af39007fc2e84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: 0467b6bfac77fad4f9498b0c4f0501b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Height:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic_Smoothness:
+        m_Texture: {fileID: 2800000, guid: 37674f464c30e2044929bc78205aea5e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 7e9b80e3017ed124fbd098854be5379b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Occlusion:
+        m_Texture: {fileID: 2800000, guid: 8064e2aa7a4edcf4b9afa5f41542fd35, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _HeightScale: 0
+    - _MetallicIntensity: 1
+    - _NormalIntensity: 0.72
+    - _OcclusionStrength: 0.646
+    - _SmoothnessIntensity: 0.768
+    - _UseEmission: 1
+    - __dirty: 0
+    m_Colors:
+    - _EmissionTint: {r: 2.6079683, g: 1.521315, b: 0.051745407, a: 1}
+    - _EmissionTint1: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionTint2: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionTint3: {r: 1, g: 1, b: 1, a: 1}
+    - _TileandOffset: {r: 1, g: 1, b: 0, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}

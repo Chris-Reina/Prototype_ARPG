@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8dcf85d60d22974cafe0a0bd36b2c3b, type: 3}
+  m_Name: PlayerAbilityData
+  m_EditorClassIdentifier: 
+  cursorMain: {fileID: 11400000, guid: c2c2e1d78b6f81c4683327fb4c3e8586, type: 2}
+  cursorDefault: {fileID: 11400000, guid: 6012a302af2279a48af21de1e621ca99, type: 2}
+  movementDefault: {fileID: 11400000, guid: fc22ec93d89d0c34486512fcfebd92a2, type: 2}
+  abilities:
+  - {fileID: 11400000, guid: fc22ec93d89d0c34486512fcfebd92a2, type: 2}
+  - {fileID: 11400000, guid: 13ebc0bd1ebede349aeeb102347ab607, type: 2}
+  - {fileID: 11400000, guid: 365ed762125e34e48958ea2862ce9e4a, type: 2}
+  - {fileID: 11400000, guid: 653de6b8afdeb244883f53652b4afbfb, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

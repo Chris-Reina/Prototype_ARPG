@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98c7ee8473b9d8c47aa45e52d9036a0f, type: 3}
+  m_Name: Zombie Loot Table
+  m_EditorClassIdentifier: 
+  drops:
+  - _dropChance: 50
+    items:
+    - {fileID: 11400000, guid: 89b7c9779157c8f488677b0d59a46342, type: 2}
+    - {fileID: 11400000, guid: 44b34202fd23d35428b178a40f3e0e8a, type: 2}
+    - {fileID: 11400000, guid: 72d51975fd60d5e46aecb97a105a83a8, type: 2}
+    - {fileID: 11400000, guid: 4e9e93b2f10dd8a42ae247f122fe50e9, type: 2}
+    - {fileID: 11400000, guid: 0db9f130acec3394f8a415645cc7438d, type: 2}
+    - {fileID: 11400000, guid: 1c521f30014576b42b30b3cd239a1e46, type: 2}

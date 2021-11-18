@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d746c121ac11346b65b39ac374983b, type: 3}
+  m_Name: MiniBoss - MeleeAttack [5]
+  m_EditorClassIdentifier: 
+  ID: 5
+  name: Basic Attack
+  description: 
+  range: 2.3
+  animationClip: {fileID: -203655887218126122, guid: 87923c83f871f8043b32259067b937b7,
+    type: 3}
+  animationEffectDelay: 0.3
+  animationSpeedMultiplier: 1
+  sound: {fileID: 0}
+  icon: {fileID: 0}
+  manaCost: 0
+  effectSystem: {fileID: 0}
+  damageMultiplicative: 1

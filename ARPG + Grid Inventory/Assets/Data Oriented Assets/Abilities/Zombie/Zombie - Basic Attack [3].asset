@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d746c121ac11346b65b39ac374983b, type: 3}
+  m_Name: Zombie - Basic Attack [3]
+  m_EditorClassIdentifier: 
+  ID: 3
+  name: Basic Attack
+  description: Base Attack.
+  range: 1.5
+  animationClip: {fileID: 7400000, guid: 292427fcdab52c0408ae6a4190e375ae, type: 2}
+  animationEffectDelay: 0.4
+  animationSpeedMultiplier: 2
+  sound: {fileID: 8300000, guid: 343efe63043a03a48aa774db0a8500c0, type: 3}
+  icon: {fileID: 21300000, guid: 8afc9700f0a3bd6438e4f3e6fc817397, type: 3}
+  damageMultiplicative: 1

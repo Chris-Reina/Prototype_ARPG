@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61def7b545639a74eb0ead14638e9ec1, type: 3}
+  m_Name: InventoryData
+  m_EditorClassIdentifier: 
+  cursorItem: {fileID: 0}
+  inventoryItems: []
+  characterItems:
+    weapons:
+      AdmittedSlot: {fileID: 11400000, guid: 8e6b8b867617abc4f961739e39aee9a4, type: 2}
+      mainItem: {fileID: 0}
+      offItem: {fileID: 0}
+    mainArmor:
+      AdmittedSlot: {fileID: 11400000, guid: fa7e19f33a9308547aacea1ef477315c, type: 2}
+      mainItem: {fileID: 0}
+    boots:
+      AdmittedSlot: {fileID: 11400000, guid: 1887497764b54ba46affc7c1127db4b4, type: 2}
+      mainItem: {fileID: 0}
+    gloves:
+      AdmittedSlot: {fileID: 11400000, guid: dcb5b414c125ffe49a1174fa08bb0e62, type: 2}
+      mainItem: {fileID: 0}
+    helmet:
+      AdmittedSlot: {fileID: 11400000, guid: e53885d5845b4804388f78dada47a571, type: 2}
+      mainItem: {fileID: 0}
+    belt:
+      AdmittedSlot: {fileID: 11400000, guid: a916b55372b63a5488c1458909485a7a, type: 2}
+      mainItem: {fileID: 0}
+    talisman:
+      AdmittedSlot: {fileID: 11400000, guid: 479fca5208a4d8d4aacdee42de50e785, type: 2}
+      mainItem: {fileID: 0}
+    rings:
+      AdmittedSlot: {fileID: 11400000, guid: 918107227700e2d47b2023efbdf74fde, type: 2}
+      mainItem: {fileID: 0}
+      offItem: {fileID: 0}

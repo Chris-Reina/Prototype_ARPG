@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1564f81976044aada0c62030b377961f, type: 3}
+  m_Name: MiniBossModelData
+  m_EditorClassIdentifier: 
+  rotationSpeed: 1.5
+  movementDetectionThreshold: 0.04
+  rotationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.33381504
+      value: 0.844645
+      inSlope: 0.86573696
+      outSlope: 0.86573696
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.055820882
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  movementSpeed: 2.5
+  nodeDetection: 0.3
+  neighbourRadiusDetection: 1.5
+  attack: {fileID: 11400000, guid: b2d4553f5133dc9478b30fb6ac0ec191, type: 2}
+  attackRange: {fileID: 11400000, guid: a36416cbd464b9c48af3821d0c8b5d4c, type: 2}
+  viewDistance: 15
+  minDamage: 20
+  maxDamage: 30

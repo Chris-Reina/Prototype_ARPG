@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d41fafa42f44f541b4a1855d401b209, type: 3}
+  m_Name: Archer - Base RangedAttack
+  m_EditorClassIdentifier: 
+  ID: 4
+  name: Shoot.
+  description: Shoot an arrow in the direction of the target.
+  range: 10
+  animationClip: {fileID: 7400000, guid: 9cd7700fc1ada0e4f95506d122ada245, type: 2}
+  animationEffectDelay: 0.7
+  animationSpeedMultiplier: 0.7
+  sound: {fileID: 0}
+  icon: {fileID: 0}
+  manaCost: 0
+  effectSystem: {fileID: 0}
+  damageMultiplicative: 1
+  prefab: {fileID: 5313836108664417553, guid: 64a4a07fa35c9a84fa3d3915fb0ec060, type: 3}

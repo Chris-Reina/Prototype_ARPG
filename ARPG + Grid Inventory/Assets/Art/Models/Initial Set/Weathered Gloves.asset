@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1f2e33160e4fd0afbfacccb144b7d3, type: 3}
+  m_Name: Weathered Gloves
+  m_EditorClassIdentifier: 
+  itemID: 18
+  name: Weathered Gloves
+  slot: {fileID: 11400000, guid: dcb5b414c125ffe49a1174fa08bb0e62, type: 2}
+  sprite: {fileID: 21300000, guid: d37f32c93d8d7d84886869e11fb09bfe, type: 3}
+  inventorySize: {x: 2, y: 2}
+  quality: 1
+  attributeModifiers:
+  - attributeType: {fileID: 11400000, guid: 6948279f37978464589af08fe9795a63, type: 2}
+    modifiedAmount: 2
+  - attributeType: {fileID: 11400000, guid: a667ba90de05dd24e9989d75996e5c46, type: 2}
+    modifiedAmount: 2

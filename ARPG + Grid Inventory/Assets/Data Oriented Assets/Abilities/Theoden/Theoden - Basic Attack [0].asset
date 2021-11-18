@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d746c121ac11346b65b39ac374983b, type: 3}
+  m_Name: Theoden - Basic Attack [0]
+  m_EditorClassIdentifier: 
+  ID: 0
+  name: Basic Attack
+  description: Base Attack.
+  range: 1.5
+  animationClip: {fileID: -203655887218126122, guid: bd393e79c041d134f989db7f8fa3698c,
+    type: 3}
+  animationEffectDelay: 0.505
+  animationSpeedMultiplier: 1.3
+  sound: {fileID: 8300000, guid: 343efe63043a03a48aa774db0a8500c0, type: 3}
+  icon: {fileID: 21300000, guid: 8afc9700f0a3bd6438e4f3e6fc817397, type: 3}
+  manaCost: 0
+  effectSystem: {fileID: 0}
+  damageMultiplicative: 1
