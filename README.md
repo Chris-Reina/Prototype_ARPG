@@ -13,3 +13,12 @@ In said Assignment we had 1 year (divided into two semesters) to define a produc
 
 [My Linkedin](https://www.linkedin.com/in/reina-chris/)
 
+## Screenshots
+
+![Image 01](/Screenshots/01.png?raw=true "01")
+![Image 02](/Screenshots/02.png?raw=true "02")
+![Image 03](/Screenshots/03.png?raw=true "03")
+![Image 04](/Screenshots/04.png?raw=true "04")
+![Image 05](/Screenshots/05.png?raw=true "05")
+![Image 06](/Screenshots/06.png?raw=true "06")
+![Image 07](/Screenshots/07.png?raw=true "07")
